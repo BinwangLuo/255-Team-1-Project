@@ -4,7 +4,7 @@
 | Gabrielle   | gabrielleviray |
 | Roy Luo     | binwangluo  |
 
-### Project Title: Who’ll win? Prediction of the Election’s result. By
+### Project Title: Who’ll win? Prediction of the Election’s result. 
 
 ### Data Source
 1. election-forecasts-2020.csv from
