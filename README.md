@@ -1,10 +1,15 @@
+Team memebers</br>
 | Name      | github username |
 | ----------- | ----------- |
 | Wei He      | RachelH2513 |
 | Gabrielle   | gabrielleviray |
 | Roy Luo     | binwangluo  |
 
+<<<<<<< HEAD
 ### Project Title: Who’ll win? Prediction of the Election’s result. 
+=======
+### Project Title: Who’ll win? Prediction of the Election’s result by Demographic.
+>>>>>>> 61e533c0adda52043406572c18efcd4b292149b9
 
 ### Data Source
 1. election-forecasts-2020.csv from
