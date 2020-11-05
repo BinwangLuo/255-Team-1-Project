@@ -8,7 +8,6 @@ Team memebers</br>
 <<<<<<< HEAD
 ### Project Title: Who’ll win? Prediction of the Election’s result. 
 =======
-### Project Title: Who’ll win? Prediction of the Election’s result by Demographic.
 >>>>>>> 61e533c0adda52043406572c18efcd4b292149b9
 
 ### Data Source
